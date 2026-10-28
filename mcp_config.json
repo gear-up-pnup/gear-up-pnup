@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "designmd": {
+      "command": "python",
+      "args": ["tools/designmd.py", "mcp"],
+      "env": {}
+    }
+  }
+}
